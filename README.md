@@ -12,7 +12,7 @@ Egalement à la recherche d'une alternance pour 2024 et 2025.
 </p>
 
 <p align=center><b>
-Allez essayer Hero.JS, le premier moteur pour Visual Novels 100% gratuit, OpenSource et accessible à tous !
+Allez essayer Hero.JS, un moteur pour Visual Novels 100% gratuit, OpenSource et accessible à tous !
 </b></p>
 
 <br>
