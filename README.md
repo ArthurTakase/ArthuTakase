@@ -7,8 +7,7 @@ Co-Président du Coding Club d'Epitech.
 </p>
 
 <p align=center>
-Actuellement à la recherche d'un stage pour la période avril-août 2023.<br>
-Egalement à la recherche d'une alternance pour 2024 et 2025.
+Actuellement à la recherche d'une alternance pour 2024 et 2025.
 </p>
 
 <p align=center><b>
